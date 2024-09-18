@@ -2,6 +2,7 @@
  * description: videoService服务, 定义播放器相关的API
  * author: Pollux
  * create: 2015-12-15
+ * 修改
  -----------------------------------------*/
 ;
 (function() {
